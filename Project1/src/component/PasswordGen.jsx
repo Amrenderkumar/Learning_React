@@ -32,6 +32,11 @@ const PasswordGen = () => {
                 <div className='bg-white max-w-md mx-auto rounded-2xl'>
                     <input type="text" value={password} placeholder='Password' readOnly className='outline-none w-full px-1 py-2' />
                 </div>
+                <div className='flex justify-center mt-4'>
+                    <button onClick={() => navigator.clipboard.writeText(password)} className='bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none'>
+                        Copy
+                    </button>
+                </div>
                 <div className='text-sm flex gap-x-2 m-2'>
                     <div className='flex items-center gap-x-1 '>
                         <input type="range" className='cursor-pointer text-white' min={6} max={100} value={length} onChange={(e) => setLength(e.target.value)} />
