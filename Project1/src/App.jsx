@@ -20,6 +20,7 @@ function App() {
         {/* <Route path='/' element={<Dashboard/>}/> */}
         <Route path='/PasswordGen' element={<PasswordGen/>}/>
         <Route path='/Weather' element={<Weather/>}/>
+        
       </Routes>
    </BrowserRouter>
   )
