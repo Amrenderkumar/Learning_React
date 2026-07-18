@@ -9,7 +9,6 @@ import PasswordGen from './component/PasswordGen'
 import Weather from './component/Weather'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
    <BrowserRouter>
