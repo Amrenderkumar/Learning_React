@@ -14,6 +14,10 @@ const router = createBrowserRouter([
   {
     path: "/header",
     element: <Header />,
+  },
+  {
+    path: "/card",
+    element: <Card />,
   }
 ]);
 
