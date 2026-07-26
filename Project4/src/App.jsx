@@ -29,6 +29,10 @@ function App() {
     }
  },[])
 
+ useEffect(() => {
+   localStorage.setItem("todos")
+ },[todos])
+
   return (
     <TodoProvider vlaue={{todos, addTodo, updateTodo, deleteTodo, toggleComplete}}>
       <div className="bg-[#172842] min-h-screen py-8">
