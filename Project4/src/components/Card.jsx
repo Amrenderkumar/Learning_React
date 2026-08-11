@@ -6,7 +6,7 @@ const Card = () => {
       <div className='bg-red-400 text-black p-4'>
         <h1>card title</h1>
       <div className='p-1 size-2 bg-amber-200 absolute'>
-        <div>card content</div>
+        <div className='text-2xl font-black'>card content</div>
       </div>
       </div>
     </div>
