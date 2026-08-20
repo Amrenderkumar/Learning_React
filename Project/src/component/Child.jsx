@@ -29,6 +29,15 @@ const Child = () => {
               city: "India",
               state: "Haryana"
           }
+        },
+        {
+          name: "Ramesh",
+          age: 50,
+          address: {
+              street: "123 Main st",
+              city: "India",
+              state: "Haryana"
+          }
         }
     ]
 
