@@ -21,6 +21,15 @@ const Head = () => {
                 city: "Los Angeles",
                 state: "CA"
             }
+        },
+        {
+            name: "Mike",
+            age: 35,
+            address: {
+                street: "789 Pine Rd",
+                city: "Chicago",
+                state: "IL"
+            }
         }
     ]
 
