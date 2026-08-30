@@ -39,6 +39,7 @@ export default function Home() {
             <div className="grid  place-items-center sm:mt-20">
                 <img className="sm:w-96 w-48" src="https://static.vecteezy.com/system/resources/previews/021/923/191/original/programmer-coding-concept-man-writing-code-at-laptop-develops-program-website-or-application-programmers-and-it-specialists-in-workplace-programming-code-with-popular-programming-languages-vector.jpg" alt="image2" />
             </div>
+            <div></div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
         </div>
