@@ -12,7 +12,7 @@ const Todo = () => {
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, unde ab hic possimus libero pariatur voluptatibus ipsum corrupti molestias! Exercitationem libero pariatur quasi, necessitatibus tenetur ipsam debitis totam quam magnam?</p>
       </div>
       <div>
-        <h4>This is the page of content</h4>
+        <h4>This is the page of content and all modifications</h4>
       </div>
     </div>
     </div>
