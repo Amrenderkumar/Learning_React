@@ -14,6 +14,7 @@ const Card = () => {
         <div>
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis eum possimus laboriosam ratione eos quidem, repellat unde atque. Laboriosam excepturi debitis odio enim quaerat voluptates deleniti, eaque nemo sunt voluptatibus!</p>
         </div>
+        <span></span>
       </div>
     </div>
   )
