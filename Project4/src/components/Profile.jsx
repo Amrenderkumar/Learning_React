@@ -18,6 +18,7 @@ const Profile = () => {
         <div>
           <h3>this is the page of profile</h3>
         </div>
+        <div>Heading</div>
     </div>
   )
 }
