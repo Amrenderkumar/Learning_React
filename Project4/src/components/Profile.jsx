@@ -15,6 +15,9 @@ const Profile = () => {
           <h1>User Profile</h1>
           <p>Welcome to your profile page. Here you can view and edit your personal information.</p>
         </div>
+        <div>
+          <h3>this is the page of profile</h3>
+        </div>
     </div>
   )
 }
