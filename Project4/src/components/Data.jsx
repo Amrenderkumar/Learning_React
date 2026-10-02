@@ -8,6 +8,7 @@ const Data = () => {
                <h1>The all data in add</h1>
           </div>
           <div>
+            <h1>hdfshlfdhlskjdfhlkdsjfhlskzdjhfkjshdkfjhsd</h1>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, dolore.</p>
           </div>
       </div>
