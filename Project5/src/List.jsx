@@ -1,7 +1,7 @@
 import React from 'react'
 
 const List = () => {
-
+// just we are creating and putting on that map and filter method to get the best fruits with calories more than 50 and then we are mapping it to get the name and calories of that fruit.
     const Fruits = [
         {
             name: "Apple",
